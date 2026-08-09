@@ -6,7 +6,7 @@ The project demonstrates a practical AI Engineering workflow including frontend 
 
 ## 🚀 Live Demo
 
-**Live Application:** [Add your Vercel URL here]
+**Live Application:** https://ai-cover-letter-generator-lac-delta.vercel.app/
 
 ## 📌 Overview
 
