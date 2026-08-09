@@ -1,0 +1,11 @@
+# Secrets & Keys
+.env
+server/.env
+
+# Dependencies
+node_modules/
+server/node_modules/
+
+# OS specific files
+.DS_Store
+Thumbs.db
